@@ -8,15 +8,15 @@ Szukam pierwszej szansy w branży!
 
 ## 🚀 Co teraz robię?
 
-- Buduję swoje portfolio z projektami i się ucze nowych technologi/rzeczy
+- Buduję swoje portfolio za pomocą moich projektów, dodatkowo się ucze nowych technologi/rzeczy
 
 ---
 
 ## 🛠️ Czego używam?
 
-- **Języki:** Python, php, mysql
-- **Frontend:** Html, css
-- **Backend:** php, python
+- **Języki:** Python, php, mysql, js, c++
+- **Frontend:** Html, css, js
+- **Backend:** php, python, c++
 - **Narzędzia:** Git, GitHub, VS Code, notepad++, sublime text
 
 ---
