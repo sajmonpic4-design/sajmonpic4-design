@@ -1,6 +1,6 @@
 # 👋 Cześć! Jestem Szymon
 
-Junior AI developer z pasją do nauki i kodowania.  
+Junior AI/ML developer z pasją do nauki i kodowania.  
 Na razie nie pracuję zawodowo, ale codziennie rozwijam swoje umiejętności poprzez kursy i własne projekty.  
 Szukam pierwszej szansy w branży!
 
