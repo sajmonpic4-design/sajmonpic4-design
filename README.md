@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Cześć! Jestem Szymon
 
-<!--
-**sajmonpic4-design/sajmonpic4-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AI developer z pasją do nauki i kodowania.  
+Na razie nie pracuję zawodowo, ale codziennie rozwijam swoje umiejętności poprzez kursy i własne projekty.  
+Szukam pierwszej szansy w branży!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Co teraz robię?
+
+- Buduję swoje portfolio z projektami i się ucze nowych technologi/rzeczy
+
+---
+
+## 🛠️ Czego używam?
+
+- **Języki:** JavaScript, Python, php, mysql i c++
+- **Frontend:** Html, css i JS
+- **Backend:** php, python, c++
+- **Narzędzia:** Git, GitHub, VS Code, notepad++, sublime text
+
+---
+
+📌 **Otwarty na współpracę i nowe wyzwania!**  
+Jeśli szukasz juniora do swojego zespołu – napisz do mnie! 🚀
