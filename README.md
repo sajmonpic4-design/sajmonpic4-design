@@ -9,6 +9,7 @@ Szukam pierwszej szansy w branży!
 ## 🚀 Co teraz robię?
 
 - Buduję swoje portfolio za pomocą moich projektów, dodatkowo się ucze nowych technologi/rzeczy
+-Buduję lokalne aplikacje z wykorzystaniem modeli AI (Ollama, LangChain) i integruję je z webowym interfejsem.
 
 ---
 
