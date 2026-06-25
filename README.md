@@ -1,4 +1,4 @@
-# 👋 Cześć! Jestem Szymon!
+# 👋 Cześć! Jestem Szymon
 
 Junior AI developer z pasją do nauki i kodowania.  
 Na razie nie pracuję zawodowo, ale codziennie rozwijam swoje umiejętności poprzez kursy i własne projekty.  
