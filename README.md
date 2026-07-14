@@ -14,10 +14,11 @@ Szukam pierwszej szansy w branży!
 
 ## 🛠️ Czego używam?
 
-- **Języki:** Python, php, mysql, js, c++
-- **Frontend:** Html, css, js
+- **Języki:** Python, php, js, c++
+- **Frontend:** Html, css, js(dopiero się ucze js)
 - **Backend:** php, python, c++
 - **Narzędzia:** Git, GitHub, VS Code, notepad++, sublime text
+- **Bazy danych** mysql, postgreSQL(dobiero się ucze postgresql)
 
 ---
 
