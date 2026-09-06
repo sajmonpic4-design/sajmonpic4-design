@@ -23,4 +23,4 @@ Szukam pierwszej szansy w branży!
 
 ---
 
-Jeśli szukasz mnie do swojego zespołu – napisz do mnie!
+Jeśli szukasz mnie do swojego zespołu – napisz do mnie! Na gmaila
