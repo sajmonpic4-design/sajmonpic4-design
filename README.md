@@ -25,9 +25,9 @@ Szukam pierwszej szansy w branży!
 
 ## Certyfikaty
 
-[Introduction_to_Cybersecurity_certificate_sajmonpic4-gmail-com_47a3f8b3-f5a7-4822-a85f-50954b7ddac0.pdf](https://github.com/user-attachments/files/32068530/Introduction_to_Cybersecurity_certificate_sajmonpic4-gmail-com_47a3f8b3-f5a7-4822-a85f-50954b7ddac0.pdf)
-[Media_społecznościowe_w_biznesie-Certyfikat_–_Media_społecznościowe_w_biznesie_2023_625792.pdf](https://github.com/user-attachments/files/32068061/Media_spolecznosciowe_w_biznesie-Certyfikat_._Media_spolecznosciowe_w_biznesie_2023_625792.pdf)
-[szymon_piatek_serwis_it_certyficate.pdf](https://github.com/user-attachments/files/32068059/szymon_piatek_serwis_it_certyficate.pdf)
+1. [Introduction_to_Cybersecurity_certificate_sajmonpic4-gmail-com_47a3f8b3-f5a7-4822-a85f-50954b7ddac0.pdf](https://github.com/user-attachments/files/32068530/Introduction_to_Cybersecurity_certificate_sajmonpic4-gmail-com_47a3f8b3-f5a7-4822-a85f-50954b7ddac0.pdf)
+2. [Media_społecznościowe_w_biznesie-Certyfikat_–_Media_społecznościowe_w_biznesie_2023_625792.pdf](https://github.com/user-attachments/files/32068061/Media_spolecznosciowe_w_biznesie-Certyfikat_._Media_spolecznosciowe_w_biznesie_2023_625792.pdf)
+3. [szymon_piatek_serwis_it_certyficate.pdf](https://github.com/user-attachments/files/32068059/szymon_piatek_serwis_it_certyficate.pdf)
 
 
 ---
