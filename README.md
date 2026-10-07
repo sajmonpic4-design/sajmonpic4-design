@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 What I doing now?
+## <i class="fa-sharp-duotone fa-thin fa-rocket"></i> What I doing now?
 
 - I create my porfolio
 
