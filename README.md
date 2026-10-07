@@ -1,8 +1,6 @@
 # Hello my name is Simon and I'm programmer AI
 
----
-
-## <i class="fa-sharp-duotone fa-thin fa-rocket"></i> What I doing now?
+ <i class="fa-sharp-duotone fa-thin fa-rocket">What I doing now?</i>
 
 - I create my porfolio
 
