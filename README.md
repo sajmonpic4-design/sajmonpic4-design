@@ -1,19 +1,14 @@
-# 👋 Cześć! Jestem Szymon i mam 17lat
-
-Developer AI junior z pasją do nauki i kodowania.  
-Na razie nie pracuję zawodowo, ale codziennie rozwijam swoje umiejętności poprzez nauczanie szkolne i własne projekty.
-Mam 2 letnie doświadczenie niekomercyjne i dodatkowo umiem korzystać z narzędzi AI i umiem obsługiwać linuxa i windowsa
-Szukam pierwszej szansy w branży!
+# Hello my name is Simon and I'm programmer AI
 
 ---
 
-## 🚀 Co teraz robię?
+## 🚀 What I doing now?
 
-- Buduję swoje portfolio za pomocą moich projektów, dodatkowo się ucze nowych technologi/rzeczy. Buduję lokalne aplikacje z wykorzystaniem modeli AI (Ollama i fastAPI) i integruję je z webowym interfejsem. Rozszerzam wiedze w kodowaniu python i uczę się nowy bibliotek.
+- I create my porfolio
 
 ---
 
-## 🛠️ Czego używam?
+## 🛠️ What I use tools?
 
 - **Języki:** Python, php, c++
 - **Frontend:** Html, css
@@ -21,13 +16,11 @@ Szukam pierwszej szansy w branży!
 - **Narzędzia:** Git, GitHub, VS code
 - **Bazy danych** mysql
 
----
-
-## Certyfikaty
+## certificate
 <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/70aad96c-0f0a-49aa-9a6c-448fe29bbc21" />
 
 
 
 ---
 
-Jeśli szukasz mnie do swojego zespołu – napisz do mnie! Na gmaila
+If you’re looking to add me to your team, drop me a line—at my Gmail address.
