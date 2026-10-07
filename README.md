@@ -1,17 +1,16 @@
 # Hello my name is Simon and I'm programmer AI
 
- <i class="fa-sharp-duotone fa-thin fa-rocket">What I doing now?</i>
-
+<i>What I doing now?</i>
 - I create my porfolio
 
 ---
 
 ## 🛠️ What I use tools?
 
-- **Języki:** Python, php, c++
+- **Laungange:** Python, php, c++
 - **Frontend:** Html, css
 - **Backend:** php, python, c++
-- **Narzędzia:** Git, GitHub, VS code
+- **tools:** Git, GitHub, VS code, dev, subrime, notebook++, GitHub desktop
 - **Bazy danych** mysql
 
 ## certificate
