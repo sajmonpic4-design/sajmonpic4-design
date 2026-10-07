@@ -14,7 +14,7 @@
 - **Databases** mysql
 
 ## certificate
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/70aad96c-0f0a-49aa-9a6c-448fe29bbc21" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/70aad96c-0f0a-49aa-9a6c-448fe29bbc21" />
 
 
 
