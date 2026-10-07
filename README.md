@@ -11,7 +11,7 @@
 - **Frontend:** Html, css
 - **Backend:** php, python, c++
 - **tools:** Git, GitHub, VS code, dev, subrime, notebook++, GitHub desktop
-- **Bazy danych** mysql
+- **Database** mysql
 
 ## certificate
 <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/70aad96c-0f0a-49aa-9a6c-448fe29bbc21" />
