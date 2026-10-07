@@ -1,17 +1,17 @@
 # Hello my name is Simon and I'm programmer AI
 
-<i>What I doing now?</i>
-- I create my porfolio
+<i>What am I doing now?</i>
+- Creating my portfolio
 
 ---
 
-## 🛠️ What I use tools?
+## 🛠️ Tools & Technologies?
 
-- **Laungange:** Python, php, c++
+- **Languages:** Python, php, c++
 - **Frontend:** Html, css
 - **Backend:** php, python, c++
-- **tools:** Git, GitHub, VS code, dev, subrime, notebook++, GitHub desktop
-- **Database** mysql
+- **tools:** Git, GitHub, VS code, dev, sublime text, notebook++, GitHub desktop
+- **Databases** mysql
 
 ## certificate
 <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/70aad96c-0f0a-49aa-9a6c-448fe29bbc21" />
