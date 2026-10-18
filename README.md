@@ -1,4 +1,4 @@
-# Hello my name is Simon and I'm programmer AI
+# Hi, my name is Simon, and I’m a student at a technical high school, specializing in programmer AI
 
 <i>What am I doing now?</i>
 - Creating my portfolio
