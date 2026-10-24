@@ -7,9 +7,9 @@
 
 ## 🛠️ Tools & Technologies?
 
-- **Languages:** Python, php, c++
-- **Frontend:** Html, css
-- **Backend:** php, python, c++
+- **Languages:** Python, php, c++, java-script
+- **Frontend:** Html, css, java-script
+- **Backend:** php, python, c++, java-script
 - **tools:** Git, GitHub, VS code, dev, sublime text, notebook++, GitHub desktop
 - **Databases** mysql
 
