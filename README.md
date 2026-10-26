@@ -4,6 +4,7 @@
 - Creating my portfolio
 - I'm learning about of AI
 - I’m trying to beat my typing speed record of 100 wpm (my current record is 92 wpm).
+- I'm learning java-script
 
 ---
 
