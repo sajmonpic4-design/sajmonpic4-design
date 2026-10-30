@@ -7,6 +7,8 @@
 - I'm learning java-script
 
 ---
+<img width="1624" height="833" alt="image" src="https://github.com/user-attachments/assets/a5cd86be-a48f-4e90-9aeb-232d8cadc709" />
+
 
 ## 🛠️ Tools & Technologies?
 
